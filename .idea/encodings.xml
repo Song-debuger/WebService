@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/client/AddList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/AddListResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/CheckPassword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/CheckPasswordResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/ClearList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/ClearListResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/DeleteList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/DeleteListResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/ParseException.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/SearchList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/SearchListResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/Service.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/ServiceResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/UserRegister.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/UserRegisterResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/server.java" charset="GBK" />
+  </component>
+</project>
